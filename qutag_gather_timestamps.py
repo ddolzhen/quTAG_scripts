@@ -3,9 +3,19 @@
 Created on Wed Oct 21 10:13:40 2020
 
 @author: Denis
+
+This script gathers data over exposure time (expTime) for several exposures (numExposures)
+Files are saved under file_path + file_name + "_X.bin"
+
 """
 
 # -*- coding: utf-8 -*-
+
+
+
+
+
+
 import numpy as np
 #import matplotlib as mpl
 import matplotlib.pyplot as plt
